@@ -1,0 +1,111 @@
+REXONA BRAND DNA — Extract for Kairos BrandDNAi Grounding
+(Source: public Rexona/Sure/Degree brand guidelines, Unilever brand book excerpts)
+
+============================================================
+1. BRAND PROMISE
+============================================================
+"It won't let you down."
+Rexona is the anti-perspirant that gives people the confidence to move more —
+whether that is a job interview, a first date, a marathon, or a match-defining
+sixth ball. The brand exists to remove sweat as a source of hesitation.
+
+============================================================
+2. TONE OF VOICE
+============================================================
+- Confident, never boastful
+- Warm, human, sport-adjacent — but not tribal or aggressive
+- Uses movement verbs: push, run, lift, dance, dare, go
+- Avoids shame-based language around sweat: sweat is proof of effort, not a defect
+- Global tone; culturally adapted per market (see localization rules)
+
+============================================================
+3. VISUAL IDENTITY
+============================================================
+- Primary color: Rexona blue (#0038A8 approx)
+- Secondary: white, silver, active reds/oranges for men's variants
+- Photography: real people mid-motion, real sweat visible, warm natural light
+- Never overly airbrushed or "clinical"
+
+============================================================
+4. BRAND SAFETY — HARD DO-NOTS
+============================================================
+- Do NOT use content that shames body odor or sweat
+- Do NOT mock athletes, officials, or public figures
+- Do NOT infringe on league IP (no team logos, no player names without rights,
+  no broadcaster marks)
+- Do NOT use content that could be read as gender-, race-, or body-shaming
+- Do NOT use content depicting minors in sweat/deodorant contexts
+- Do NOT associate with alcohol, tobacco, gambling, or political messaging
+- Do NOT use religious symbols as marketing vehicles
+
+============================================================
+5. CULTURAL MOMENT PLAYBOOK
+============================================================
+Rexona has permission to enter a cultural moment ONLY when:
+  (a) The moment involves visible physical effort, pressure, or performance
+      (sport, dance, work, first-time experiences)
+  (b) The brand can add to the moment without interrupting it
+  (c) The creative celebrates the person under pressure, not the brand itself
+  (d) The brand name/logo appears organically, not stamped on top
+
+Approved moment archetypes:
+  - Athletes mid-effort (any sport)
+  - Officials/referees under scrutiny
+  - Performers before going on stage
+  - Public speakers, interviewees, first-day-of-work moments
+  - Dancers, especially in high-heat/high-energy formats
+
+============================================================
+6. MARKET-SPECIFIC NOTES
+============================================================
+INDIA (Rexona):
+  - Cricket dominates; football is rising in Kerala, West Bengal, Northeast
+  - Use Hindi + English mix ("Hinglish") for Gen Z; regional languages for tier 2+
+  - Modesty norms: no bare underarms without context; sport context makes it OK
+  - Price point matters: emphasize value ("24-hour protection at everyday price")
+
+BRAZIL (Rexona):
+  - Football is universal; also Carnival, funk, capoeira
+  - Warm, expressive tone; humor lands well
+  - Body-positive across all body types is table stakes
+  - Portuguese language, Brazilian slang OK ("suar a camisa" = "sweat the shirt")
+
+UK (Sure):
+  - Football, rugby, cricket; also nightlife, gigs, festivals
+  - Dry humor works; earnestness can feel forced
+  - "Sure" not "Rexona"; do not use the Rexona name in UK creative
+
+US (Degree):
+  - NFL, NBA, MLB, plus emerging: pickleball, F1, women's sports
+  - "Degree" branding; motivational tone; Team USA/Olympic association strong
+
+INDONESIA (Rexona):
+  - Badminton, football, motorsport
+  - Bahasa Indonesia; Muslim-majority — modest visuals, no alcohol context
+  - Ramadan/Eid moments high-priority; back-to-work post-Eid = key window
+
+============================================================
+7. REGULATORY / LEGAL FLAGS
+============================================================
+- India: DPDP Act 2023 compliance for any first-party data capture
+- EU: GDPR, DSA — creator ads must carry #ad disclosure
+- KSA/UAE: religious-content pre-clearance required
+- Brazil: LGPD; ANVISA rules on efficacy claims ("24-hour" needs test data)
+- US: FTC endorsement guides — #ad, #sponsored required on creator posts
+- All markets: no medical/dermatological claims without evidence dossier
+
+============================================================
+8. APPROVED MOMENT ATTRIBUTES (scoring inputs)
+============================================================
+Brand-fit score components (each 0–100, weighted):
+  - Effort visibility (25%): is physical effort visible in the moment?
+  - Pressure context (25%): is the subject performing under stakes?
+  - Positive framing (20%): does entering the moment celebrate the person?
+  - Safety clearance (20%): no legal/cultural/IP risk?
+  - Reach potential (10%): velocity × audience overlap with Rexona buyers?
+
+Auto-reject triggers:
+  - Any political, religious, or ideological content
+  - Any moment involving injury, death, or public tragedy
+  - Any moment where humor at a person's expense is the driver
+  - Any moment with sentiment >20% negative in first hour
